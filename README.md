@@ -1,8 +1,6 @@
-# Traffic Sign Classification Using Deep Learning in Python/Keras
+# Project - Traffic Sign Classification Using Deep Learning in Python/Keras
 
-<img src="https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png" width="700" height="400" class="center">
-
-Welcome to "Classify Traffic Signs Using Deep Learning for Self-Driving Cars." This is a project-based course which should take approximately 1 hour to finish. Before diving into the project, please take a look at the course objectives and structure:
+<img src="https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png">
 
 # Objectives
 
