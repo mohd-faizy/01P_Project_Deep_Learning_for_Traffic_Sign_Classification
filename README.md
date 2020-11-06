@@ -2,6 +2,9 @@
 
 <img src="https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png">
 
+## __Dataset__
+> [__Download the Dataset__](https://www.dropbox.com/s/v2r77l4wgfkrb1r/traffic_signs_data.zip)
+
 ### Objectives
 
 - Understand the theory and intuition behind __Deep Learning__ and __Convolutional Neural Networks (CNNs)__.
