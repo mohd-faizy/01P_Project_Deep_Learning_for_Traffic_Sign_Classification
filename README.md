@@ -1,6 +1,9 @@
 # Project - Traffic Sign Classification Using Deep Learning in Python/Keras
 
-<img src="https://miro.medium.com/max/3240/1*7bnej5JYaGK4aPAFvuY-0g.png">
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/01_proj.png'></a>
+</p>
+
 
 ## __Dataset__
 > [__Download the Dataset__](https://www.dropbox.com/s/v2r77l4wgfkrb1r/traffic_signs_data.zip)
@@ -14,6 +17,9 @@
 - Compile and __fit Deep Convolutional Neural Network model__ to __training data__.
 - Assess the __performance__ of trained Convolutional Neural Network model and ensure its __generalization__ using various KPIs
 
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/01P_Project_Deep_Learning_for_Traffic_Sign_Classification/blob/master/Proj_png/traffic_signal_classification.png?raw=true'></a>
+</p>
 
 ### Classify Traffic Sign Using Deep Learning for Self-Driving Cars is divided into following tasks
 
